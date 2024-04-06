@@ -141,7 +141,7 @@ async function run(){
                         <img style="display: block;
                         margin-left: auto;
                         margin-right: auto;" width="50px" src="https://i.ibb.co/NKBP5RK/logo.jpg" alt="">
-                  <h1 style="margin: 0px; line-height: 140%; text-align: center; word-wrap: break-word; font-size: 22px; font-weight: 400;"><strong>SummerLand Restaurant</strong></h1>
+                  <h1 style="margin: 2px; line-height: 140%; text-align: center; word-wrap: break-word; font-size: 22px; font-weight: 400;"><strong>SummerLand Restaurant</strong></h1>
     
                       </td>
                     </tr>
@@ -352,7 +352,7 @@ async function run(){
                         <img style="display: block;
                         margin-left: auto;
                         margin-right: auto;" width="50px" src="https://i.ibb.co/NKBP5RK/logo.jpg" alt="">
-                  <h1 style="margin: 0px; line-height: 140%; text-align: center; word-wrap: break-word; font-size: 22px; font-weight: 400;"><strong>SummerLand Restaurant</strong></h1>
+                  <h1 style="margin: 2px; line-height: 140%; text-align: center; word-wrap: break-word; font-size: 22px; font-weight: 400;"><strong>SummerLand Restaurant</strong></h1>
     
                       </td>
                     </tr>
